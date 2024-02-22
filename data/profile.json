@@ -58,6 +58,11 @@
       "name": "criação de site de busca de filmes",
       "url": "https://github.com/tiago-sb/love-films",
       "github": true
+    },
+    {
+      "name": "criação de site de busca de usuário no gitHub",
+      "url": "https://github.com/tiago-sb/user-find-github",
+      "github": true
     }
   ]
 }
